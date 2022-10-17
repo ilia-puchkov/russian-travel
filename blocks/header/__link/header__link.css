@@ -3,5 +3,13 @@
     font-size: 24px;
     font-weight: 400;
     font-style: normal;
-    color: #FFFFFF
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 320px) {
+    .header__link {
+        line-height: 20px;
+        font-size: 18px;
+    }
 }

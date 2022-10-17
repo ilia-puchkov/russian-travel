@@ -5,7 +5,22 @@
     font-style: normal;
     font-weight: 400;
     font-size: 30px;
-    line-height: 36px;
+    line-height: 120%;
     text-align: center;
     color: #FFFFFF;
+}
+
+@media screen and (maxwidth: 320px){
+    .lead__subtitle {
+        padding: 32px 0 56px;
+    }
+}
+
+@media screen and (maxwidth: 320px){
+    .lead__subtitle {
+        max-width: 288px;
+        padding: 16px 0 40px;
+        font-size: 16px;
+        line-height: 125%;
+    }
 }

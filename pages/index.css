@@ -4,11 +4,15 @@
 /* Page general CSS */ 
 @import url(../blocks/page/page.css);
 
+/* Links CSS */
+@import url(../blocks/links/links.css);
+
 /* Header CSS */
 @import url(../blocks/header/header.css);
     @import url(../blocks/header/__logo/header__logo.css);
     @import url(../blocks/header/__links/header__links.css);
     @import url(../blocks/header/__link/header__link.css);
+        @import url(../blocks/header/__link/_active/header__link_active.css);
 
 /* Lead CSS */
 @import url(../blocks/lead/lead.css);
@@ -41,3 +45,15 @@
     @import url(../blocks/place/__url-heading/place__url-heading.css);
     @import url(../blocks/place/__image/place__image.css);
     @import url(../blocks/place/__website/place__website.css);
+
+/* Cover CSS */
+@import url(../blocks/cover/cover.css);
+    @import url(../blocks/cover/__title/cover__title.css);
+    @import url(../blocks/cover/__subtitle/cover__subtitle.css);
+    @import url(../blocks/cover/__background/cover__background.css);
+
+/* Footer CSS */
+@import url(../blocks/footer/footer.css);
+    @import url(../blocks/footer/__links/footer__links.css);
+    @import url(../blocks/footer/__link/footer__link.css);
+    @import url(../blocks/footer/__copyright/footer__copyright.css);

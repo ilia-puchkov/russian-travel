@@ -6,7 +6,15 @@
     font-style: normal;
     font-weight: 900;
     font-size: 96px;
-    line-height: 100px;
+    line-height: 110%;
     text-align: center;
     color: #FFFFFF;
+}
+
+@media screen and (maxwidth: 320px){
+    .lead__title {
+        max-width: 288px;
+        max-height: 88px;
+        font-size: 40px;
+    }
 }
