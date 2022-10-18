@@ -11,3 +11,9 @@
     color: #FFFFFF;
     text-decoration: none;
 }
+
+@media screen and (max-width: 320px) {
+    .footer__links {
+        flex-direction: column;
+    }
+}

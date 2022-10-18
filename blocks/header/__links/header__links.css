@@ -1,6 +1,7 @@
 .header__links {
     display: flex;
     flex-flow: row;
+    margin: 18px 0 6px;
     list-style-type: none;
     column-gap: 18px;
 }

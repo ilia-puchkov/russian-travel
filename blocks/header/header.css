@@ -2,7 +2,6 @@
     display: flex;
     justify-content: space-between;
     max-width: calc(100% - 2*48px);
-    max-height: 52px;
     padding-top: 28px;
     margin: 0 auto;
 }
