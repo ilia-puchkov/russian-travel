@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     margin: 92px auto;
-    padding-bottom: 24px;;
+    padding-bottom: 24px;
     width: calc(100% - 2*48px);
 }
 
