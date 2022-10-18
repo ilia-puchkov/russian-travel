@@ -2,7 +2,7 @@
 
 # Проект: Путешествие по России
 
-## Проект на GitPages: [here] (https://ilia-puchkov.github.io/russian-travel/index.html)
+## Проект на GitPages: [here](https://ilia-puchkov.github.io/russian-travel/index.html)
 
 ### Обзор
 * Проект созданный для практики верстки и адаптивной верстки.
