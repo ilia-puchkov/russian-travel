@@ -4,6 +4,9 @@
 /* Fonts */
 @import url(../vendor/fonts/fonts.css);
 
+/* Body CSS */
+@import url(../blocks/body/body.css);
+
 /* Page general CSS */ 
 @import url(../blocks/page/page.css);
 
