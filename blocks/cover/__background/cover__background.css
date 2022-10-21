@@ -11,7 +11,7 @@
   background-image: url(../../../images/cover-trains.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 740px
+  min-height: 740px;
 }
 
 .cover__background::after {
