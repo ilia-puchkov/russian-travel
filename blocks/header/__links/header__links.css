@@ -5,3 +5,9 @@
   list-style-type: none;
   column-gap: 18px;
 }
+
+@media screen and (max-width: 640px) {
+  .header__links {
+    margin-top: 14px;
+  }
+}
