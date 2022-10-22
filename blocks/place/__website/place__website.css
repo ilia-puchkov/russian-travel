@@ -4,7 +4,7 @@
   justify-content: flex-end;
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 767px) {
   .place__website {
     max-width: calc(100% - 2*16px);
     padding-left: 16px;

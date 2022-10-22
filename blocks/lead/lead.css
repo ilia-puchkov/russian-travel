@@ -4,7 +4,6 @@
   align-items: center;
   margin: 56px auto 0;
   max-width: calc(100% - 2*148px);
-  min-height: 1005px;
 }
 
 
@@ -12,20 +11,17 @@
   .lead {
     max-width: calc(100% - 2*48px);
     margin-top: 48px;
-    min-height: 962px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .lead {
     max-width: 100%;
-    min-height: 862px;
   }
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 767px) {
   .lead {
     max-width: 100%;
-    min-height: 406px;
   }
 }
