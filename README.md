@@ -2,8 +2,6 @@
 
 ![logo](./images/russian-travel-ip.png)
 
-Проект на GH-pages https://ilia-puchkov.github.io/russian-travel/
-
 ## Проект на GitPages: [here](https://ilia-puchkov.github.io/russian-travel/index.html)
 
 ### Обзор
